@@ -1,4 +1,4 @@
-# Solo System 🗡️
+# Solo System 
 
 A Solo Leveling-inspired real-life RPG fitness tracker. Complete daily workouts, earn XP, level up your character, and unlock dungeons — all styled after the System from the manhwa.
 
